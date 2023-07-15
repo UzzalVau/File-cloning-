@@ -1316,7 +1316,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrUZZAL -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/UzzalVau/Test/blob/main/Test.txt").text
+	r1=requests.get("https://github.com/UzzalVau/File-cloning-/blob/main/Approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
