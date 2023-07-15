@@ -419,7 +419,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif UZZAL in ["1", "01"]:
-			os.system("xdg-open https://youtube/@Uzzalvau")
+			os.system("xdg-open https://youtube.com/@Uzzalvau")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
